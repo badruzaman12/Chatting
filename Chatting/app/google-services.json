@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068238739557",
+    "project_id": "chatting-16471",
+    "storage_bucket": "chatting-16471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068238739557:android:ffae53e615800434984e8c",
+        "android_client_info": {
+          "package_name": "com.badruivan.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068238739557-hv75d2ib5d2uemtk9s2hvu50qh328a22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLpvpc_JyZfTSgKl1bUqia-qr7OwLNe9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068238739557-hv75d2ib5d2uemtk9s2hvu50qh328a22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

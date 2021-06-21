@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chatting</string>
+    <string name="reg_token" translatable="false">Registration Token: %s</string>
+</resources>
